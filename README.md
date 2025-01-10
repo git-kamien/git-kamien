@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello, I'm `hrabia_kamien` a passionate of Programming & Web Security.
+A humble fullstack Rustlang/Typescript mostly closed-source developer from the Poland 🇵🇱
+<p align="center">
+  <img src="./TravelerQuestion.gif" />
+</p>
 
-<!--
-**git-kamien/git-kamien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Commonly used technologies
+* **Typescript**:
+*   - Frontend
+*   -   - TailwindCss (CSS framework)
+*   -   - DaisyUi (Component library for TailwindCss)   
+*   -   - VueUse (Vue composition utilities)
+*   -   - Pinia (Store ecosystem for Vue)
+*   -   - VueJs (Core framework)
+*   - Backend
+*   -   - PostgresSQL (Database dialect)
+*   -   - Sequelize (Database ORM)
+*   -   - Socket.io (Websocket communication)
+*   -   - Fastify (HTTP(s) communication)
+*   -   - Docker (Containerization platform)
+*   -   - NestJs (Server core)
+* **Rustlang**:
+*   - WebAssembly
+*   -   - Wasm-Bindgen (high-level interactions between Wasm components and JavaScript)
+*   -   - Rock-Script (Hand-written closed source framework for Wasm-Bindgen with rich utilities)
+*   - Backend
+*   -   - PostgresSQL (Database dialect)
+*   -   - Diesel (Database ORM)
+*   -   - Axum (Websocket communication)
+*   -   - Axum (HTTP(s) communication)
+*   -   - Axum (Server core)
+* **Softwares**:
+*   - VeraCrypt (Disk image(s) encryption)
+*   - VsCodium (Community-driven distribution of VsCode editor)
+*   - DbGate (Comfortable database client)
