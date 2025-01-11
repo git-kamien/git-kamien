@@ -1,7 +1,7 @@
 ## Hello, I'm `hrabia_kamien` a passionate of Programming & Web Security.
 A humble fullstack Rustlang/Typescript mostly closed-source developer from Poland 🇵🇱
 <p align="center">
-  <img src="./TravelerQuestion.gif" />
+  <img src="./HeyTraveller.gif" />
 </p>
 
 ## Commonly used technologies
