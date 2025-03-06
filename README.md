@@ -22,7 +22,7 @@ A humble fullstack Rustlang/Typescript mostly closed-source developer from Polan
 * **Rustlang**:
 *   - WebAssembly
 *   -   - Wasm-Bindgen (high-level interactions between Wasm components and JavaScript)
-*   -   - Rock-Script (Hand-written closed source framework for Wasm-Bindgen with rich utilities)
+*   -   - RustScript (Hand-written closed source framework for Wasm-Bindgen with rich utilities)
 *   - Backend
 *   -   - PostgresSQL (Database dialect)
 *   -   - Diesel (Database ORM)
