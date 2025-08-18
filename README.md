@@ -1,7 +1,16 @@
-## Hello, I'm `hrabia_kamien` a passionate of Programming and Web Security.
-A humble fullstack Rustlang/Typescript mostly closed-source developer from Poland 🇵🇱
+## Hello, I'm `hrabia_kamien` from 🇵🇱
+A humble passionate of Closed-Source Programming in `Zig, RS, TS, JS` languages, Security enginner & Pixel-arter.
 
-<img src="./HeyTraveller.gif" />
+```
+The glow of mastery guides my existence.
+Ambition meets with recognition and admiration.
+
+I don't whine, I don't give in, it's torment for others.
+I don't kneel, I don't plead, my joy is in my own art-work.
+
+I'm here to keep things moving forward.
+To want is to be able to, so LET'S CODE IT.
+```
 
 ## Commonly used technologies
 * **Typescript**:
@@ -33,6 +42,9 @@ A humble fullstack Rustlang/Typescript mostly closed-source developer from Polan
 *   - VeraCrypt - `Disk image(s) encryption`
 *   - VsCodium - `Community-driven distribution of VsCode editor`
 *   - DbGate - `Comfortable database client`
+* **Pixel arting**
+*  - Aseprite - `Editor for animating & spriting`
+*  - Gimp - `Editor for coloring`
 
 ## PGP Key (RSA-4096):
 ```
